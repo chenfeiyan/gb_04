@@ -1,0 +1,1 @@
+console.log('输出这个list列表的轮播图');
